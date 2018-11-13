@@ -1,6 +1,8 @@
 {
 "TOTAL_MEMORY": 268435456,
 "dataUrl": "node.data.unityweb",
+"wasmCodeUrl": "node.wasm.code.unityweb",
+"wasmFrameworkUrl": "node.wasm.framework.unityweb",
 "asmCodeUrl": "node.asm.code.unityweb",
 "asmMemoryUrl": "node.asm.memory.unityweb",
 "asmFrameworkUrl": "node.asm.framework.unityweb",
